@@ -1,4 +1,4 @@
-deploy link:  quiz-001.netlify.app
+deploy link:  http://quiz-001.netlify.app
 
 # Getting Started with Create React App
 
